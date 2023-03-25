@@ -1,5 +1,12 @@
 ## Getting Started
 
+
+### Demo
+
+https://user-images.githubusercontent.com/36173828/227714728-8789fcdb-111f-4e1c-bd50-adecbc4862f1.mp4
+
+### Instruction
+
 ```bash
 yarn dev
 ```
